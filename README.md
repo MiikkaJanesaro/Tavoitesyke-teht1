@@ -1,1 +1,1 @@
-Tehtävässä luotiin sykelaskuri
+Tehtävässä luotiin tavoitesykelaskuri
